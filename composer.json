@@ -1,5 +1,5 @@
 {
-    "name": "oliveready7/laravel-ses",
+    "name": "craftlogan/laravel-ses",
     "description": "Allows you to track opens, deliveries, bounces, complaints and clicked links when sending emails through Laravel and Amazon SES",
     "type": "library",
     "license": "MIT",
