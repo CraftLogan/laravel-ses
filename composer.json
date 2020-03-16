@@ -19,12 +19,12 @@
         }
     ],
     "require": {
-        "illuminate/support": "6.* | 7.*",
-        "illuminate/console": "6.* | 7.*",
-        "illuminate/mail": "6.* | 7.*",
-        "illuminate/database": "6.* | 7.*",
-        "illuminate/container": "6.* | 7.*",
-        "illuminate/routing": "6.* | 7.*",
+        "illuminate/support": "7.*",
+        "illuminate/console": "7.*",
+        "illuminate/mail": "7.*",
+        "illuminate/database": "7.*",
+        "illuminate/container": "7.*",
+        "illuminate/routing": "7.*",
         "aws/aws-sdk-php": "^3.28",
         "ramsey/uuid": "^3.7",
         "Nesbot/Carbon": "^1.22 | 2.*",
