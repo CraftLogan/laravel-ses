@@ -31,7 +31,7 @@
         "guzzlehttp/guzzle": "~6.0",
         "paquettg/php-html-parser": "^1.7",
         "aws/aws-php-sns-message-validator": "^1.4",
-        "symfony/psr-http-message-bridge": "^1.0",
+        "symfony/psr-http-message-bridge": "^2.0",
         "zendframework/zend-diactoros": "^1.7 | 2.*"
     },
     "require-dev": {
